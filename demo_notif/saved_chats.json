@@ -1,0 +1,10 @@
+{
+    "-1003892566207": {
+        "name": "DemoGroupChat",
+        "type": "supergroup"
+    },
+    "8010582680": {
+        "name": "Wanchat",
+        "type": "private_user"
+    }
+}
